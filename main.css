@@ -1,0 +1,148 @@
+.nav-border {
+    width: 1300px;
+    height: 150px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.list {
+    list-style: none;
+    width: 432px;
+    height: 16px;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navphone {
+    width: 400px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navVector{
+    width: 10px;
+    height: 24px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;   
+} 
+.navFrame{
+    display: flex;
+    border-radius: 32px;
+}
+.layout{
+    display: flex;
+    width: 70px;
+    height: 10px;
+    padding: 18px 27px 18px 57px;   
+    justify-content: center;
+    align-items: center;
+    border-radius: 32px;
+    background: #FFA800;
+}
+.cook{
+    width: 1300px;
+    height: 502px;
+    border: 1px solid;
+    margin: 0 auto;
+    background-color:#B0CC0D;;
+    border-radius: 40px;
+}
+.cook-text-1{
+    width: 400px;
+    color: #FFF;
+    margin: 45px;
+    font-family: Montserrat;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100%; /* 65px */
+    text-transform: uppercase;
+}
+.cook-text-2{
+    margin: 40px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 59px;
+}
+.cook-text-3{
+    display: inline-flex;
+    padding: 18px 27px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.c-left{ 
+    position: absolute;
+    width: -96%;
+    height: -120%;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+.sheet-1{
+    position: absolute;
+    left: -100px;
+    bottom: -171pxpx;
+}
+.sheet-2{
+    position: absolute;
+    bottom: 278px;
+    left: 439px;
+}
+.sheet-3{
+    position: absolute;
+    top:-68px;
+    left: 553px;
+}
+.c-right{
+    position: absolute;
+    left: 1025px;
+    top: 328px;
+}
+.right-element-1{
+    position: absolute;
+    left: 208px;
+    bottom: -477px;
+}
+.right-element-2{
+    position: absolute;
+    left: -262px;
+    top: -125px;
+}
+.right-element-3{
+    position: absolute;
+    width: 950px;
+    top: -70px;
+    left: -225px;
+}
+.menu{
+    width: 188px;
+    height: 38px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%; /* 38.4px */
+    text-transform: uppercase;
+}
